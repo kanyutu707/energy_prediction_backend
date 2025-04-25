@@ -2,5 +2,4 @@ fastapi>=0.95.0
 uvicorn>=0.21.1
 python-multipart
 pandas
-sklearn
-pickle
+scikit-learn
